@@ -2,29 +2,24 @@
 # Retail Sales Data Analysis (EDA Project)
 
 ##  Objective
+
 The objective of this project is to perform Exploratory Data Analysis (EDA) on a retail sales dataset to identify patterns, trends, and insights that can help in better business decision-making.
 
----
-
 ##  Tools & Technologies Used
+
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 - VS Code / Google Colab
 
----
-
 ##  Dataset Description
+
 The dataset contains information about retail transactions, including:
 - Date of purchase
 - Product Category
 - Quantity of items sold
 - Total Amount of sales
-
----
-
-##  Steps Performed
 
 ### 1. Data Cleaning
 - Checked for missing values
@@ -44,8 +39,6 @@ The dataset contains information about retail transactions, including:
 - Line chart for sales over time
 - Heatmap to understand correlation between variables
 
----
-
 ##  Insights
 
 - The Clothing category shows the highest number of transactions, making it the most popular category.
@@ -53,8 +46,6 @@ The dataset contains information about retail transactions, including:
 - Sales vary over time, with certain dates showing higher sales than others.
 - A strong relationship exists between quantity purchased and total sales amount.
 - A few transactions generate significantly higher revenue compared to others.
-
----
 
 ##  Recommendations
 
@@ -68,5 +59,3 @@ The dataset contains information about retail transactions, including:
 
 ##  Conclusion
 This project successfully analyzed retail sales data using EDA techniques. The insights gained can help businesses optimize inventory, improve marketing strategies, and enhance overall sales performance.
-
----
