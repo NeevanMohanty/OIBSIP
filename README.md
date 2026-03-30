@@ -6,7 +6,7 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) on a
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 - Python
 - Pandas
 - Matplotlib
