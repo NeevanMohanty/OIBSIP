@@ -24,19 +24,19 @@
     
   ## Steps Performed
   
-  ###1. Data Cleaning
+  ### 1. Data Cleaning
   -Checked for missing values
   -Removed null values to ensure data accuracy
   
-  ###2. Descriptive Statistics
+  ### 2. Descriptive Statistics
   -Analyzed mean, minimum, maximum, and standard deviation of nutritional values
     
-  ###3. Data Analysis
+  ### 3. Data Analysis
   -Performed category-wise analysis of menu items
   -Identified high-calorie, high-sugar, and high-protein items
   -Analyzed average nutritional values across categories
   
-  ###4. Data Visualization
+  ### 4. Data Visualization
   -Bar chart for category-wise item distribution and calorie comparison
   -Histogram for calorie distribution
   -Scatter plot to analyze relationship between fat and calories
