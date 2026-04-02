@@ -29,31 +29,31 @@
 
   ## Methodology
   
-  ###1. Data Loading:-
+  ### 1. Data Loading:-
   The dataset was imported using the Pandas library. Initial rows were displayed to understand the structure and format of     the data.
 
-  ###2. Data Exploration:-
+  ### 2. Data Exploration:-
   Basic information about the dataset was obtained using functions such as .info() and .columns to identify data types and     missing values.
 
-  ###3. Handling Missing Values:-
+  ### 3. Handling Missing Values:-
   Missing values were identified using .isnull().sum() and handled by removing incomplete records to ensure data accuracy.
 
-  ###4. Removing Duplicates:-
+  ### 4. Removing Duplicates:-
   Duplicate records were detected using .duplicated() and removed to maintain uniqueness and prevent redundancy.
 
-  ###5. Fixing Data Types:-
+  ### 5. Fixing Data Types:-
   Data types of columns were verified and corrected where necessary, such as converting date columns into proper datetime      format.
 
-  ###6. Data Standardization:-
+  ### 6. Data Standardization:-
   Column names were cleaned by removing extra spaces and converting them to lowercase. Text values were standardized to        maintain consistency across the dataset.
 
-  ###7. Outlier Detection:-
+  ### 7. Outlier Detection:-
   Boxplots were used to visualize and identify outliers in numerical columns. These extreme values were analyzed for their     potential impact.
 
-  ###8. Final Data Validation:-
+  ### 8. Final Data Validation:-
   A final check was performed to ensure that no missing values or duplicate records remained in the dataset.
 
-  ###9. Saving Cleaned Data:-
+  ### 9. Saving Cleaned Data:-
   The cleaned dataset was exported and saved as a new file (cleaned_dataset.csv) for further use.
 
   ## Results and Observations
