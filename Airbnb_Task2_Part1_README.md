@@ -82,4 +82,4 @@
   
   ## Conclusion
 
-  This project successfully demonstrated the importance of data cleaning in the data analytics workflow. By handling missing   values, removing duplicates, correcting data types, and standardizing the dataset, the data was transformed into a clean     and reliable format. Data cleaning ensures accuracy, consistency, and reliability, making it a critical step for effective data-driven decision-making
+  This project successfully demonstrated the importance of data cleaning in the data analytics workflow. By handling missing   values, removing duplicates, correcting data types, and standardizing the dataset, the data was transformed into a clean     and reliable format. Data cleaning ensures accuracy, consistency, and reliability, making it a critical step for effective   data-driven decision-making
